@@ -3,8 +3,8 @@
     tokenKey: 'visitor_token',
     createdAtKey: 'visitor_token_created_at',
     expiryDays: 180,
-    reportUrl: '', // e.g. 'https://tracker.mycompany.com/store_token'
-    recoveryUrl: '', // e.g. 'https://tracker.mycompany.com/get_token'
+    reportUrl: 'https://viennaadvantage.com/tracking/store_token.php', // e.g. 'https://tracker.mycompany.com/store_token'
+    recoveryUrl: 'https://viennaadvantage.com/tracking/get_token.php', // e.g. 'https://tracker.mycompany.com/get_token'
     debug: false,
   };
 
